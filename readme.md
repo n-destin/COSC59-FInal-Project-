@@ -30,8 +30,8 @@
    ```
 2. Compile the code using your preferred C++ compiler:
    ```bash
-   g++ -o lisp_interpreter lisp_interpreter.cpp
-   g++ -o unification_algorithm unification_algorithm.cpp
+   g++ -o lisp_interpreter lisp.cpp
+   g++ -o unification_algorithm unification.cpp
    ```
 3. Run the programs:
    - For the Lisp interpreter:
